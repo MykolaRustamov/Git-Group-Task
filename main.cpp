@@ -1,4 +1,4 @@
 #include <iostream>
 void printMessage(){
-    std::cout << "BimBamBom" << std::endl;
+    std::cout << "BamBimBom" << std::endl;
 }
